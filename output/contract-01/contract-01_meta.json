@@ -1,0 +1,91 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Contract for sale and purchase of land - Law Society 2022 edition - pages 1-4",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2549 - InfoTrack eCos General Conditions - 35 5-15 BELAIR CL HORNSBY NSW 2077",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2022 Special Condition Including Auction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "202304211442 (1)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "req SP",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 97,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "202304211442",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 99,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "LA_35.5-15_Bela",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 40,
+    "ocr_stats": {
+        "ocr_pages": 8,
+        "ocr_failed": 0,
+        "ocr_success": 8,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 10,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
